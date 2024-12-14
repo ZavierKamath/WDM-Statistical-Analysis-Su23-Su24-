@@ -11,3 +11,7 @@ To learn more about the physics, see the summary of methods and conclusions pdf 
 To learn how I actually coded everything, look at the jupyter notebook "WDM Statistical Analysis Walkthrough" 
 
 Note: The module disSat from Dr. Stacy Kim may need to be imported by hand for everything to work.
+
+## CV
+
+My CV is also posted. Please check it out!
